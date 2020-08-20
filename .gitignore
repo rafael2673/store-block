@@ -1,1 +1,4 @@
-.lock
+/react/yarn.lock
+/yarn.lock
+/react/node_modules
+/node/node_modules
