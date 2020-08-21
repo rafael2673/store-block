@@ -3,3 +3,5 @@
 /react/node_modules
 /node/node_modules
 /node/yarn.lock
+node_modules
+package-lock.json
