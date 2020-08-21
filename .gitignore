@@ -2,3 +2,4 @@
 /yarn.lock
 /react/node_modules
 /node/node_modules
+/node/yarn.lock
